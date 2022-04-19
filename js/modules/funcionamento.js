@@ -14,5 +14,3 @@ export default function initFunctionamento() {
         funcionamento.classList.add('aberto');
     }
 }
-
-
